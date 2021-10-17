@@ -48,7 +48,7 @@
     <dependencyManagement>
         <dependencies>
             <dependency>
-                <groupId>com.github.tomokinakamaru.silverchain</groupId>
+                <groupId>io.github.tomokinakamaru.silverchain</groupId>
                 <artifactId>silverchain</artifactId>
                 <version>0.1.0</version>
             </dependency>
@@ -81,7 +81,7 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.github.tomokinakamaru.silverchain</groupId>
+            <groupId>io.github.tomokinakamaru.silverchain</groupId>
             <artifactId>silverchain</artifactId>
         </dependency>
         <dependency>
