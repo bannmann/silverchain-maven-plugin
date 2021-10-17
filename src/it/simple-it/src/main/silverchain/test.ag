@@ -1,0 +1,16 @@
+com.example.FooBuilder
+{
+    com.example.Foo
+
+    parse(String source)
+
+    {
+        enableBar()?,
+        baz()?,
+        withQuux()?,
+    }
+
+    put(String name, Object value)*
+
+    build();
+}
