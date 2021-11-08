@@ -1,6 +1,13 @@
-com.example.FooBuilder
+import com.example.FooBuilder;
+import com.example.Foo;
+
+import java.util.Map;
+
+FooBuilder
 {
-    com.example.Foo
+    Foo
+
+    configure(Map<String, Object> options)
 
     parse(String source)
 
